@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/juicissKa/ctest/badge.svg?branch=main)](https://coveralls.io/github/juicissKa/ctest?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/matuha26/ctest/badge.svg?branch=main)](https://coveralls.io/github/matuha26/ctest?branch=main)
 # План тестирования:
 
 # Аттестационное тестирование
